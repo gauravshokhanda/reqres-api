@@ -1,0 +1,32 @@
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .flex > div {
+    margin: 0 1rem 2rem 1rem;
+    text-align: center;
+  }
+  
+  img {
+    display: flex;
+    max-width: 100%;
+    
+  }
+  h2{
+      color:White;
+      text-align: center;
+  }
+  p{
+      color:whitesmoke;
+
+  }
+  img{
+
+        width:250px;
+        height:250px;
+  }
